@@ -1,0 +1,12 @@
+#tab1 {
+	background-color: #eeeeee
+}
+#tab2 {
+	background-color: #ffffff
+}
+#tab1_content {
+    display: block;
+}
+#tab2_content, #tab3_content {
+    display: none;
+}

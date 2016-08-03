@@ -1,0 +1,15 @@
+#tab1 {
+    display: block;
+}
+#tab2 {
+    display: none;
+}
+.media {
+
+}
+.book_title {
+    font-weight: 700;
+}
+.author_title {
+    line-height: 2em;
+}

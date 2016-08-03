@@ -1,0 +1,43 @@
+.container { 
+	/* leave space for top/bottom navbars */
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.center {
+	text-align: center;
+}
+.vspace {
+	min-height: 10px;
+}
+.bottom_border {
+	border-bottom: 1px #ccc solid;
+}
+.red, a.red:link, a.red:hover, a.red:visited, a.red:active {
+	color: #cc0000;
+	text-decoration: none;
+}
+a.white:active, a.white:hover, a.white:visited, a.white:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+.icon_active {
+	background: #eee;
+}
+.navbar_app {
+	margin: 0px 0px;
+	padding-top: 5px;
+	min-width: 19%;
+	min-height: 50px;
+	display: inline-block;
+	font-size: 2em;
+	text-align: center;
+}
+.media-left {
+	padding-left: 10px;
+}
+#drop_button {
+	background: #00cc66;
+}
+#share_button {
+	background: #0066cc;
+}
