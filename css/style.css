@@ -12,8 +12,8 @@
 .bottom_border {
 	border-bottom: 1px #ccc solid;
 }
-.red, a.red:link, a.red:hover, a.red:visited, a.red:active {
-	color: #cc0000;
+.green, a.green:link, a.green:hover, a.green:visited, a.green:active {
+	color: #006633;
 	text-decoration: none;
 }
 a.white:active, a.white:hover, a.white:visited, a.white:link {
@@ -34,10 +34,4 @@ a.white:active, a.white:hover, a.white:visited, a.white:link {
 }
 .media-left {
 	padding-left: 10px;
-}
-#drop_button {
-	background: #00cc66;
-}
-#share_button {
-	background: #0066cc;
 }
